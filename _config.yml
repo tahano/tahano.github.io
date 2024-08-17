@@ -12,7 +12,7 @@ github_repo: "https://github.com/tahano/tahano.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "aaaaaaaa!"
-sidebar-avatar: <img src="https://pic.imgdb.cn/item/66c02517d9c307b7e9b6d221.png" alt="20230115150421.png">    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
