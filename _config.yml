@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
- disqus_username:tanshuo
+ disqus_username: tanshuo
 
 # Gitalk
 # gitalk:
