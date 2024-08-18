@@ -11,7 +11,7 @@ github_repo: "https://github.com/tahano/tahano.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "喜欢聪明的人"
+sidebar-about-description: "asdaasdas"
 sidebar-avatar: img/avatar.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
