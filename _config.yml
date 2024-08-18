@@ -1,7 +1,7 @@
 # Site settings
 title: tahano
 SEOTitle: tahano的博客 | BY Blog
-header-img: img/back-about.jpg
+header-img: img/back.jpg
 email: tanshuo0730@gmail.com
 description: "ssssssssss."
 keyword: "BY, BY Blog, tahano的博客, tahano"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/tahano/tahano.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "aaaaaaaa!"
+sidebar-about-description: "喜欢聪明的人"
 sidebar-avatar: img/avatar.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
