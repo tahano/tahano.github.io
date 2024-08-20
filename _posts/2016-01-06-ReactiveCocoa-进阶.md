@@ -4,13 +4,13 @@ title:      ReactiveCocoa 进阶
 subtitle:   函数式编程框架 ReactiveCocoa 进阶
 date:       2017-01-06
 author:     BY
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/back.jpg
 catalog: true
 tags:
     - 123
     - R123
     - 函123
-    - 1232
+    - 123
 ---
 # 前言
 
