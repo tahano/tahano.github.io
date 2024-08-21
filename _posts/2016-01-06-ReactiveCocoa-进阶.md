@@ -8,9 +8,6 @@ header-img: img/back.jpg
 catalog: true
 tags:
     - 123
-    - R123
-    - 函123
-    - 123
 ---
 # 前言
 
