@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar.png         # use absolute URL, seeing it's used in 
 RSS: false
 weibo_username: "a"
 zhihu_username: "a"
-github_username: "a"
+github_username: "https://github.com/tahano"
 facebook_username: "a"
 jianshu_username: "a"
 twitter_username: "https://x.com/StorkShuoTan?t=JXcOnx7Cmp81Lu08ait5nw&s=09"
