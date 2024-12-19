@@ -15,7 +15,7 @@ sidebar-about-description: "This world is a prison"
 sidebar-avatar: /img/avatar.png         # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username: "a"
 zhihu_username: "a"
 github_username: "https://github.com/tahano"
